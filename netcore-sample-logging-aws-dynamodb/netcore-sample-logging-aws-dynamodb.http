@@ -1,0 +1,6 @@
+@netcore_sample_logging_aws_dynamodb_HostAddress = http://localhost:5226
+
+GET {{netcore_sample_logging_aws_dynamodb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
